@@ -1,0 +1,6 @@
+{
+  "name": "ZUKI মোবাইল সার্ভিসিং",
+  "description": "একটি সম্পূর্ণ আধুনিক মোবাইল সার্ভিসিং ও মেরামত শেখার একাডেমি অ্যাপ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
